@@ -9,5 +9,5 @@
   >**./uls [-ACFOSTGacdgfilmorsptux1@] [file ...]**  
 
 ### Developers:
-- [Alex](https://github.com/ivannikovalex0502)
+- [Alex](https://github.com/oivannikov)
 - [Vlad](https://github.com/vstruk01)
