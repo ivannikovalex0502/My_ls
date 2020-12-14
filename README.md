@@ -1,7 +1,7 @@
 # uls
 
 ### Installation:
->**1. git clone https://github.com/oivannikov/My_ls.git**   
+>**1. git clone https://github.com/oivannikov/my_ls.git**   
 >**2. cd uls**  
 >**3. make**  
 
