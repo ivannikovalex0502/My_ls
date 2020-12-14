@@ -5,7 +5,7 @@ The command ls is for listing directory contents or file information. The option
 
 ### Installation:
 >**1. git clone https://github.com/oivannikov/my_ls.git**   
->**2. cd uls**  
+>**2. cd my_ls**  
 >**3. make**  
 
 ### Use:
